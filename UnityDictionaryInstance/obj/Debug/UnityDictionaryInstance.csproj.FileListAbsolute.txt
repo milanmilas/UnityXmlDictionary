@@ -1,0 +1,15 @@
+C:\GitHub\UnityDictionaryInstance\UnityDictionaryInstance\bin\Debug\UnityDictionaryInstance.exe.config
+C:\GitHub\UnityDictionaryInstance\UnityDictionaryInstance\bin\Debug\UnityDictionaryInstance.exe
+C:\GitHub\UnityDictionaryInstance\UnityDictionaryInstance\bin\Debug\UnityDictionaryInstance.pdb
+C:\GitHub\UnityDictionaryInstance\UnityDictionaryInstance\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\GitHub\UnityDictionaryInstance\UnityDictionaryInstance\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\GitHub\UnityDictionaryInstance\UnityDictionaryInstance\bin\Debug\Microsoft.Practices.Unity.dll
+C:\GitHub\UnityDictionaryInstance\UnityDictionaryInstance\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\GitHub\UnityDictionaryInstance\UnityDictionaryInstance\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\GitHub\UnityDictionaryInstance\UnityDictionaryInstance\bin\Debug\Microsoft.Practices.Unity.xml
+C:\GitHub\UnityDictionaryInstance\UnityDictionaryInstance\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\GitHub\UnityDictionaryInstance\UnityDictionaryInstance\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\GitHub\UnityDictionaryInstance\UnityDictionaryInstance\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\GitHub\UnityDictionaryInstance\UnityDictionaryInstance\obj\Debug\UnityDictionaryInstance.csprojResolveAssemblyReference.cache
+C:\GitHub\UnityDictionaryInstance\UnityDictionaryInstance\obj\Debug\UnityDictionaryInstance.exe
+C:\GitHub\UnityDictionaryInstance\UnityDictionaryInstance\obj\Debug\UnityDictionaryInstance.pdb
